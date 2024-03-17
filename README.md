@@ -1,228 +1,220 @@
-<div align="center">
-
-# 🧑‍✈️ GPT PILOT 🧑‍✈️
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧑&zwj;</font></font><g-emoji class="g-emoji" alias="airplane"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✈️</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT 飞行员🧑&zwj;</font></font><g-emoji class="g-emoji" alias="airplane"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✈️</font></font></g-emoji></h1><a id="user-content-️-gpt-pilot-️" class="anchor" aria-label="永久链接：🧑&zwj;✈️ GPT PILOT 🧑&zwj;✈️" href="#️-gpt-pilot-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 </div>
-
----
-
-<div align="center">
-
-[![Discord Follow](https://dcbadge.vercel.app/api/server/HaqXugmxr9?style=flat)](https://discord.gg/HaqXugmxr9)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)](https://github.com/Pythagora-io/gpt-pilot)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HiPythagora?style=social)](https://twitter.com/HiPythagora)
-
+<hr>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://discord.gg/HaqXugmxr9" rel="nofollow"><img src="https://camo.githubusercontent.com/6de2758fe7c7ba9d0a6805ce25ab39f3bb2d5e4287ee2c76f5c6cc237efa5de9/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f4861715875676d7872393f7374796c653d666c6174" alt="不和谐 关注" data-canonical-src="https://dcbadge.vercel.app/api/server/HaqXugmxr9?style=flat" style="max-width: 100%;"></a>
+<a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://camo.githubusercontent.com/42a4809f82ee770f36526b711833e9484e8dfe0b71ddfa1340881ff94b6a5669/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f5079746861676f72612d696f2f6770742d70696c6f743f7374796c653d736f6369616c" alt="GitHub 存储库星星" data-canonical-src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" style="max-width: 100%;"></a>
+<a href="https://twitter.com/HiPythagora" rel="nofollow"><img src="https://camo.githubusercontent.com/c0016a1b6d9f7ebab1910ee2c8f902f7bd4ae8fe19ffa4a19814bd3ccc92b954/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f48695079746861676f72613f7374796c653d736f6369616c" alt="推特关注" data-canonical-src="https://img.shields.io/twitter/follow/HiPythagora?style=social" style="max-width: 100%;"></a></p>
 </div>
-
----
-
-<div align="center">
-<a href="https://www.ycombinator.com/" target="_blank"><img src="./media/backed-by-YC-black.png" alt="Pythagora-io%2Fgpt-pilot | Trendshift" style="width: 250px; height: 93px;"/></a>
+<hr>
+<div align="center" dir="auto">
+<a href="https://www.ycombinator.com/" rel="nofollow"><img src="/Pythagora-io/gpt-pilot/raw/main/media/backed-by-YC-black.png" alt="Pythagora-io%2Fgpt-pilot | 毕达哥拉-io%2Fgpt-pilot  趋势转变" style="width: 250px; height: 93px; max-width: 100%;"></a>
 </div>
 <br>
-<div align="center">
-<a href="https://trendshift.io/repositories/466" target="_blank"><img src="https://trendshift.io/api/badge/repositories/466" alt="Pythagora-io%2Fgpt-pilot | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-
-### GPT Pilot doesn't just generate code, it builds apps!
-
-</div>
-
----
-<div align="center">
-
-[![See it in action](https://i3.ytimg.com/vi/4g-1cPGK0GA/maxresdefault.jpg)](https://youtu.be/4g-1cPGK0GA)
-
-(click to open the video in YouTube) (1:40min)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="vscode:extension/PythagoraTechnologies.gpt-pilot-vs-code" target="_blank"><img src="https://github.com/Pythagora-io/gpt-pilot/assets/10895136/5792143e-77c7-47dd-ad96-6902be1501cd" alt="Pythagora-io%2Fgpt-pilot | Trendshift" style="width: 185px; height: 55px;" width="185" height="55"/></a>
-
-</div>
-
-GPT Pilot is the core technology for the [Pythagora VS Code extension](https://bit.ly/3IeZxp6) that aims to provide **the first real AI developer companion**. Not just an autocomplete or a helper for PR messages but rather a real AI developer that can write full features, debug them, talk to you about issues, ask for review, etc.
-
----
-
-📫 If you would like to get updates on future releases or just get in touch, join our [Discord server](https://discord.gg/HaqXugmxr9) or you [can add your email here](http://eepurl.com/iD6Mpo). 📬
-
----
-
-<!-- TOC -->
-* [🔌 Requirements](#-requirements)
-* [🚦How to start using gpt-pilot?](#how-to-start-using-gpt-pilot)
-* [🔎 Examples](#-examples)
-* [🐳 How to start gpt-pilot in docker?](#-how-to-start-gpt-pilot-in-docker)
-* [🧑‍💻️ CLI arguments](#-cli-arguments)
-* [🏗 How GPT Pilot works?](#-how-gpt-pilot-works)
-* [🕴How's GPT Pilot different from _Smol developer_ and _GPT engineer_?](#hows-gpt-pilot-different-from-smol-developer-and-gpt-engineer)
-* [🍻 Contributing](#-contributing)
-* [🔗 Connect with us](#-connect-with-us)
-* [🌟 Star history](#-star-history)
-<!-- TOC -->
-
----
-
-GPT Pilot aims to research how much LLMs can be utilized to generate fully working, production-ready apps while the developer oversees the implementation.
-
-**The main idea is that AI can write most of the code for an app (maybe 95%), but for the rest, 5%, a developer is and will be needed until we get full AGI**.
-
-If you are interested in our learnings during this project, you can check [our latest blog posts](https://blog.pythagora.ai/2024/02/19/gpt-pilot-what-did-we-learn-in-6-months-of-working-on-a-codegen-pair-programmer/).
-
----
-
-<br>
-
-<div align="center">
-
-### **[👉 Examples of apps written by GPT Pilot 👈](https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot)**
-
+<div align="center" dir="auto">
+<a href="https://trendshift.io/repositories/466" rel="nofollow"><img src="https://camo.githubusercontent.com/956a393f5b44685c7c75be0ac4678a9003092652ee8aea4334ac4c094e11e9ed/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f343636" alt="Pythagora-io%2Fgpt-pilot | 毕达哥拉-io%2Fgpt-pilot  趋势转变" style="width: 250px; height: 55px; max-width: 100%;" width="250" height="55" data-canonical-src="https://trendshift.io/api/badge/repositories/466"></a>
 </div>
 <br>
-
----
-
-# 🔌 Requirements
-
-- **Python 3.9+**
-
-# 🚦How to start using gpt-pilot?
-👉 If you are using VS Code as your IDE, the easiest way to start is by downloading [GPT Pilot VS Code extension](https://bit.ly/3IeZxp6). 👈
-
-Otherwise, you can use the CLI tool.
-
-After you have Python and (optionally) PostgreSQL installed, follow these steps:
-1. `git clone https://github.com/Pythagora-io/gpt-pilot.git` (clone the repo)
-2. `cd gpt-pilot`
-3. `python -m venv pilot-env` (create a virtual environment)
-4. `source pilot-env/bin/activate` (or on Windows `pilot-env\Scripts\activate`) (activate the virtual environment)
-5. `pip install -r requirements.txt` (install the dependencies)
-6. `cd pilot`
-7. `mv .env.example .env` (or on Windows `copy .env.example .env`) (create the .env file)
-8. Add your environment to the `.env` file:
-   - LLM Provider (OpenAI/Azure/Openrouter)
-   - Your API key
-   - database settings: SQLite/PostgreSQL (to change from SQLite to PostgreSQL, just set `DATABASE_TYPE=postgres`)
-   - optionally set IGNORE_PATHS for the folders which shouldn't be tracked by GPT Pilot in workspace, useful to ignore folders created by compilers (i.e. `IGNORE_PATHS=folder1,folder2,folder3`)
-9. `python main.py` (start GPT Pilot)
-
-After, this, you can just follow the instructions in the terminal.
-
-All generated code will be stored in the folder `workspace` inside the folder named after the app name you enter upon starting the pilot.
-
-# 🔎 [Examples](https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot)
-
-[Click here](https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot) to see all example apps created with GPT Pilot.
-
-## 🐳 How to start gpt-pilot in docker?
-1. `git clone https://github.com/Pythagora-io/gpt-pilot.git` (clone the repo)
-2. Update the `docker-compose.yml` environment variables, which can be done via `docker compose config`. If you wish to use a local model, please go to [https://localai.io/basics/getting_started/](https://localai.io/basics/getting_started/).
-3. By default, GPT Pilot will read & write to `~/gpt-pilot-workspace` on your machine, you can also edit this in `docker-compose.yml`
-4. run `docker compose build`. this will build a gpt-pilot container for you.
-5. run `docker compose up`.
-6. access the web terminal on `port 7681`
-7. `python main.py` (start GPT Pilot)
-
-This will start two containers, one being a new image built by the `Dockerfile` and a Postgres database. The new image also has [ttyd](https://github.com/tsl0922/ttyd) installed so that you can easily interact with gpt-pilot. Node is also installed on the image and port 3000 is exposed.
-
-
-# 🧑‍💻️ CLI arguments
-
-
-## `--get-created-apps-with-steps`
-Lists all existing apps.
-
-```bash
-python main.py --get-created-apps-with-steps
-```
-
 <br>
+<div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT Pilot 不仅生成代码，还构建应用程序！</font></font></h3><a id="user-content-gpt-pilot-doesnt-just-generate-code-it-builds-apps" class="anchor" aria-label="永久链接：GPT Pilot 不仅生成代码，还构建应用程序！" href="#gpt-pilot-doesnt-just-generate-code-it-builds-apps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+</div>
+<hr>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://youtu.be/4g-1cPGK0GA" rel="nofollow"><img src="https://camo.githubusercontent.com/429941944ddd871c629995fbb93dfc72a7c179780bf55c307ba640af748cb497/68747470733a2f2f69332e7974696d672e636f6d2f76692f34672d316350474b3047412f6d617872657364656661756c742e6a7067" alt="查看实际效果" data-canonical-src="https://i3.ytimg.com/vi/4g-1cPGK0GA/maxresdefault.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（点击打开 YouTube 中的视频）（1:40 分钟）</font></font></p>
+</div>
+<hr>
+<div align="center" dir="auto">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/10895136/289617828-5792143e-77c7-47dd-ad96-6902be1501cd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA2ODk3NDksIm5iZiI6MTcxMDY4OTQ0OSwicGF0aCI6Ii8xMDg5NTEzNi8yODk2MTc4MjgtNTc5MjE0M2UtNzdjNy00N2RkLWFkOTYtNjkwMmJlMTUwMWNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDE1MzA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxMzRlYTVkNTE1YWFiNDYxN2YzZWQ3NTNiMDVjMTE2MWE1M2ViMTA1ZjI1MzkzM2ZiNWVhZGFlMTgzMWFlZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OQYUb-YR6NHenxlgez54SyIODi7K0cjkXORtG6HgCxY"><img src="https://private-user-images.githubusercontent.com/10895136/289617828-5792143e-77c7-47dd-ad96-6902be1501cd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA2ODk3NDksIm5iZiI6MTcxMDY4OTQ0OSwicGF0aCI6Ii8xMDg5NTEzNi8yODk2MTc4MjgtNTc5MjE0M2UtNzdjNy00N2RkLWFkOTYtNjkwMmJlMTUwMWNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE3VDE1MzA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxMzRlYTVkNTE1YWFiNDYxN2YzZWQ3NTNiMDVjMTE2MWE1M2ViMTA1ZjI1MzkzM2ZiNWVhZGFlMTgzMWFlZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OQYUb-YR6NHenxlgez54SyIODi7K0cjkXORtG6HgCxY" alt="Pythagora-io%2Fgpt-pilot | 毕达哥拉-io%2Fgpt-pilot  趋势转变" style="width: 185px; height: 55px; max-width: 100%;" width="185" height="55"></a></p>
+</div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://bit.ly/3IeZxp6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT Pilot 是Pythagora VS Code 扩展</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的核心技术</font><font style="vertical-align: inherit;">，旨在提供</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一个真正的 AI 开发伙伴</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">不仅仅是一个自动完成功能或 PR 消息的助手，而是一个真正的 AI 开发人员，可以编写完整的功能、调试它们、与您讨论问题、请求审核等。</font></font></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📫 如果您想获取未来版本的更新或只是联系我们，请加入我们的</font></font><a href="https://discord.gg/HaqXugmxr9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，或者您</font></font><a href="http://eepurl.com/iD6Mpo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以在此处添加您的电子邮件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">📬</font></font></p>
+<hr>
 
-## `app_id`
-Continue working on an existing app using **`app_id`**
-```bash
-python main.py app_id=<ID_OF_THE_APP>
-```
+<ul dir="auto">
+<li><a href="#-requirements"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 要求</font></font></a></li>
+<li><a href="#how-to-start-using-gpt-pilot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚦如何开始使用gpt-pilot？</font></font></a></li>
+<li><a href="#-examples"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔎 示例</font></font></a></li>
+<li><a href="#-how-to-start-gpt-pilot-in-docker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐳 如何在docker中启动gpt-pilot？</font></font></a></li>
+<li><a href="#-cli-arguments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧑&zwj;💻️ CLI 参数</font></font></a></li>
+<li><a href="#-how-gpt-pilot-works"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏗 GPT Pilot 是如何工作的？</font></font></a></li>
+<li><a href="#hows-gpt-pilot-different-from-smol-developer-and-gpt-engineer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🕴GPT Pilot 与</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Smol 开发人员</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT 工程师</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有何不同？</font></font></a></li>
+<li><a href="#-contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍻 贡献</font></font></a></li>
+<li><a href="#-connect-with-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗 与我们联系</font></font></a></li>
+<li><a href="#-star-history"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 明星历史</font></font></a></li>
+</ul>
 
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT Pilot 旨在研究在开发人员监督实施的同时，可以利用多少 LLM 来生成完全可用、可投入生产的应用程序。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要思想是人工智能可以为应用程序编写大部分代码（也许 95%），但对于其余的 5%，在我们获得完整的 AGI 之前，现在和将来都需要开发人员</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对我们在这个项目中学到的知识感兴趣，您可以查看</font></font><a href="https://blog.pythagora.ai/2024/02/19/gpt-pilot-what-did-we-learn-in-6-months-of-working-on-a-codegen-pair-programmer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们最新的博客文章</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<hr>
 <br>
-
-## `step`
-Continue working on an existing app from a specific **`step`** (eg: `development_planning`)
-```bash
-python main.py app_id=<ID_OF_THE_APP> step=<STEP_FROM_CONST_COMMON>
-```
-
+<div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><strong><a href="https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 GPT Pilot 编写的应用程序示例 👈</font></font></a></strong></h3><a id="user-content--examples-of-apps-written-by-gpt-pilot-" class="anchor" aria-label="永久链接：👉 GPT Pilot 编写的应用程序示例 👈" href="#-examples-of-apps-written-by-gpt-pilot-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+</div>
 <br>
-
-## `skip_until_dev_step`
-Continue working on an existing app from a specific **development step**
-```bash
-python main.py app_id=<ID_OF_THE_APP> skip_until_dev_step=<DEV_STEP>
-```
-Continue working on an existing app from a specific **`development step`**. If you want to play around with GPT Pilot, this is likely the flag you will often use.
-
+<hr>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 要求</font></font></h1><a id="user-content--requirements" class="anchor" aria-label="永久链接：🔌 要求" href="#-requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 3.9+</font></font></strong></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚦如何开始使用gpt-pilot？</font></font></h1><a id="user-content-how-to-start-using-gpt-pilot" class="anchor" aria-label="永久链接：🚦如何开始使用 gpt-pilot？" href="#how-to-start-using-gpt-pilot"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 如果您使用 VS Code 作为 IDE，最简单的开始方法是下载</font></font><a href="https://bit.ly/3IeZxp6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT Pilot VS Code 扩展</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">👈</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">否则，您可以使用 CLI 工具。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Python 和（可选）PostgreSQL 后，请按照以下步骤操作：</font></font></p>
+<ol dir="auto">
+<li><code>git clone https://github.com/Pythagora-io/gpt-pilot.git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（克隆存储库）</font></font></li>
+<li><code>cd gpt-pilot</code></li>
+<li><code>python -m venv pilot-env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（创建虚拟环境）</font></font></li>
+<li><code>source pilot-env/bin/activate</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（或在 Windows 上</font></font><code>pilot-env\Scripts\activate</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（激活虚拟环境）</font></font></li>
+<li><code>pip install -r requirements.txt</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（安装依赖项）</font></font></li>
+<li><code>cd pilot</code></li>
+<li><code>mv .env.example .env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（或在 Windows 上</font></font><code>copy .env.example .env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（创建 .env 文件）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的环境添加到</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LLM 提供商（OpenAI/Azure/Openrouter）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的 API 密钥</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库设置：SQLite/PostgreSQL（从SQLite更改为PostgreSQL，只需设置</font></font><code>DATABASE_TYPE=postgres</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以选择为工作区中 GPT Pilot 不应跟踪的文件夹设置 IGNORE_PATHS，这对于忽略编译器创建的文件夹很有用（即</font></font><code>IGNORE_PATHS=folder1,folder2,folder3</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+</li>
+<li><code>python main.py</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（启动 GPT 试点）</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之后，您只需按照终端中的说明操作即可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有生成的代码将存储在</font></font><code>workspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以您启动试点时输入的应用程序名称命名的文件夹内的文件夹中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔎</font></font><a href="https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a></h1><a id="user-content--examples" class="anchor" aria-label="永久链接：🔎 示例" href="#-examples"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单击此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看使用 GPT Pilot 创建的所有示例应用程序。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐳 如何在docker中启动gpt-pilot？</font></font></h2><a id="user-content--how-to-start-gpt-pilot-in-docker" class="anchor" aria-label="永久链接：🐳 如何在 docker 中启动 gpt-pilot？" href="#-how-to-start-gpt-pilot-in-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><code>git clone https://github.com/Pythagora-io/gpt-pilot.git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（克隆存储库）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新</font></font><code>docker-compose.yml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">环境变量，这可以通过</font></font><code>docker compose config</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">如果您想使用本地模型，请访问</font></font><a href="https://localai.io/basics/getting_started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://localai.io/basics/getting_started/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认情况下，GPT Pilot 将在您的计算机上读取和写入</font></font><code>~/gpt-pilot-workspace</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，您也可以在</font></font><code>docker-compose.yml</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font><code>docker compose build</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">这将为您构建一个 gpt-pilot 容器。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跑步</font></font><code>docker compose up</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问网络终端</font></font><code>port 7681</code></li>
+<li><code>python main.py</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（启动 GPT 试点）</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将启动两个容器，一个是由 构建的新映像，</font></font><code>Dockerfile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另一个是 Postgres 数据库。</font><font style="vertical-align: inherit;">新映像还安装了</font></font><a href="https://github.com/tsl0922/ttyd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ttyd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以便您可以轻松地与 gpt-pilot 交互。</font><font style="vertical-align: inherit;">镜像上还安装了 Node，并且暴露了端口 3000。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧑&zwj;💻️ CLI 参数</font></font></h1><a id="user-content-️-cli-arguments" class="anchor" aria-label="永久链接：🧑&zwj;💻️ CLI 参数" href="#️-cli-arguments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><code>--get-created-apps-with-steps</code></h2><a id="user-content---get-created-apps-with-steps" class="anchor" aria-label="永久链接：--get-created-apps-with-steps" href="#--get-created-apps-with-steps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列出所有现有应用程序。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py --get-created-apps-with-steps</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py --get-created-apps-with-steps" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
 <br>
-
-
-```bash
-python main.py app_id=<ID_OF_THE_APP> skip_until_dev_step=0
-```
-Erase all development steps previously done and continue working on an existing app from the start of development.
-
-
-## `theme`
-```bash
-python main.py theme=light
-```
-```bash
-python main.py theme=dark
-```
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><code>app_id</code></h2><a id="user-content-app_id" class="anchor" aria-label="固定链接：app_id" href="#app_id"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用以下命令继续开发现有应用程序</font></font><strong><code>app_id</code></strong></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py app_id=<span class="pl-k">&lt;</span>ID_OF_THE_APP<span class="pl-k">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py app_id=<ID_OF_THE_APP>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
 <br>
-
-# 🏗 How GPT Pilot works?
-Here are the steps GPT Pilot takes to create an app:
-
-1. You enter the app name and the description.
-2. **Product Owner agent** like in real life, does nothing. :)
-3. **Specification Writer agent** asks a couple of questions to understand the requirements better if project description is not good enough.
-4. **Architect agent** writes up technologies that will be used for the app and checks if all technologies are installed on the machine and installs them if not.
-5. **Tech Lead agent** writes up development tasks that the Developer must implement.
-6. **Developer agent** takes each task and writes up what needs to be done to implement it. The description is in human-readable form.
-7. **Code Monkey agent** takes the Developer's description and the existing file and implements the changes.
-8. **Reviewer agent** reviews every step of the task and if something is done wrong Reviewer sends it back to Code Monkey.
-9. **Troubleshooter agent** helps you to give good feedback to GPT Pilot when something is wrong.
-10. **Debugger agent** hate to see him, but he is your best friend when things go south.
-11. **Technical Writer agent** writes documentation for the project.
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><code>step</code></h2><a id="user-content-step" class="anchor" aria-label="永久链接： 步骤" href="#step"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><code>step</code></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">继续从特定（例如</font></font><code>development_planning</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：）</font><font style="vertical-align: inherit;">开发现有应用程序</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py app_id=<span class="pl-k">&lt;</span>ID_OF_THE_APP<span class="pl-k">&gt;</span> step=<span class="pl-k">&lt;</span>STEP_FROM_CONST_COMMON<span class="pl-k">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py app_id=<ID_OF_THE_APP> step=<STEP_FROM_CONST_COMMON>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
 <br>
-
-# 🕴How's GPT Pilot different from _Smol developer_ and _GPT engineer_?
-
-- **GPT Pilot works with the developer to create a fully working production-ready app** - I don't think AI can (at least in the near future) create apps without a developer being involved. So, **GPT Pilot codes the app step by step** just like a developer would in real life. This way, it can debug issues as they arise throughout the development process. If it gets stuck, you, the developer in charge, can review the code and fix the issue. Other similar tools give you the entire codebase at once - this way, bugs are much harder to fix for AI and for you as a developer.
-  <br><br>
-- **Works at scale** - GPT Pilot isn't meant to create simple apps but rather so it can work at any scale. It has mechanisms that filter out the code, so in each LLM conversation, it doesn't need to store the entire codebase in context, but it shows the LLM only the relevant code for the current task it's working on. Once an app is finished, you can continue working on it by writing instructions on what feature you want to add.
-
-# 🍻 Contributing
-If you are interested in contributing to GPT Pilot, I would be more than happy to have you on board and also help you get started. Feel free to ping [zvonimir@pythagora.ai](mailto:zvonimir@pythagora.ai), and I'll help you get started.
-
-## 🖥 Development
-Other than the research, GPT Pilot needs to be debugged to work in different scenarios. For example, we realized that the quality of the code generated is very sensitive to the size of the development task. When the task is too broad, the code has too many bugs that are hard to fix, but when the development task is too narrow, GPT also seems to struggle in getting the task implemented into the existing code.
-
-## 📊 Telemetry
-To improve GPT Pilot, we are tracking some events from which you can opt out at any time. You can read more about it [here](./docs/TELEMETRY.md).
-
-# 🔗 Connect with us
-🌟 As an open-source tool, it would mean the world to us if you starred the GPT-pilot repo 🌟
-
-💬 Join [the Discord server](https://discord.gg/HaqXugmxr9) to get in touch.
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><code>skip_until_dev_step</code></h2><a id="user-content-skip_until_dev_step" class="anchor" aria-label="永久链接：skip_until_dev_step" href="#skip_until_dev_step"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">从特定的开发步骤</font></strong><font style="vertical-align: inherit;">继续开发现有应用程序</font></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py app_id=<span class="pl-k">&lt;</span>ID_OF_THE_APP<span class="pl-k">&gt;</span> skip_until_dev_step=<span class="pl-k">&lt;</span>DEV_STEP<span class="pl-k">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py app_id=<ID_OF_THE_APP> skip_until_dev_step=<DEV_STEP>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">继续从特定的</font></font><strong><code>development step</code></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font><font style="vertical-align: inherit;">如果您想使用 GPT Pilot，这可能是您经常使用的标志。</font></font></p>
+<br>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py app_id=<span class="pl-k">&lt;</span>ID_OF_THE_APP<span class="pl-k">&gt;</span> skip_until_dev_step=0</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py app_id=<ID_OF_THE_APP> skip_until_dev_step=0" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除之前完成的所有开发步骤，并从开发一开始就继续处理现有的应用程序。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><code>theme</code></h2><a id="user-content-theme" class="anchor" aria-label="永久链接： 主题" href="#theme"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py theme=light</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py theme=light" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python main.py theme=dark</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python main.py theme=dark" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<br>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏗 GPT Pilot 是如何工作的？</font></font></h1><a id="user-content--how-gpt-pilot-works" class="anchor" aria-label="永久链接：🏗 GPT Pilot 是如何工作的？" href="#-how-gpt-pilot-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是 GPT Pilot 创建应用程序所需的步骤：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您输入应用程序名称和说明。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品负责人代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就像现实生活中一样，什么都不做。</font><font style="vertical-align: inherit;">:)</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果项目描述不够好，规范编写代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会询问几个问题，以便更好地理解需求。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构师代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编写将用于应用程序的技术，并检查计算机上是否安装了所有技术，如果没有，则安装它们。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术主管代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编写开发人员必须实施的开发任务。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接受每项任务并写下实施该任务所需执行的操作。</font><font style="vertical-align: inherit;">该描述采用人类可读的形式。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Code Monkey 代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取开发人员的描述和现有文件并实施更改。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审核者代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会审核任务的每一步，如果出现问题，审核者会将其发送回 Code Monkey。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可帮助您在出现问题时向 GPT Pilot 提供良好的反馈。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">调试器代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨厌见到他，但当事情不顺利时，他是你最好的朋友。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术作家代理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为项目编写文档。</font></font></li>
+</ol>
+<br>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🕴GPT Pilot 与</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Smol 开发人员</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT 工程师</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有何不同？</font></font></h1><a id="user-content-hows-gpt-pilot-different-from-smol-developer-and-gpt-engineer" class="anchor" aria-label="永久链接：🕴GPT Pilot 与 Smol 开发人员和 GPT 工程师有何不同？" href="#hows-gpt-pilot-different-from-smol-developer-and-gpt-engineer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT Pilot 与开发人员合作创建一个完全可用于生产的应用程序</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 我认为人工智能无法（至少在不久的将来）在没有开发人员参与的情况下创建应用程序。</font><font style="vertical-align: inherit;">因此， GPT Pilot</font><font style="vertical-align: inherit;">会像开发人员在现实生活中一样</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">逐步对应用程序进行编码。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这样，它可以调试在整个开发过程中出现的问题。</font><font style="vertical-align: inherit;">如果遇到问题，您（负责的开发人员）可以检查代码并解决问题。</font><font style="vertical-align: inherit;">其他类似的工具可以立即为您提供整个代码库 - 这样，对于人工智能和作为开发人员的您来说，修复错误要困难得多。
+</font></font><br><br></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大规模工作</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- GPT Pilot 并不是为了创建简单的应用程序，而是为了让它可以在任何规模上工作。</font><font style="vertical-align: inherit;">它具有过滤代码的机制，因此在每个 LLM 对话中，它不需要将整个代码库存储在上下文中，但它只向 LLM 显示其正在处理的当前任务的相关代码。</font><font style="vertical-align: inherit;">应用程序完成后，您可以通过编写有关要添加哪些功能的说明来继续处理它。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍻 贡献</font></font></h1><a id="user-content--contributing" class="anchor" aria-label="永久链接：🍻 贡献" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有兴趣为 GPT Pilot 做出贡献，我非常高兴您加入并帮助您入门。</font><font style="vertical-align: inherit;">请随意 ping </font></font><a href="mailto:zvonimir@pythagora.ai"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zvonimir@pythagora.ai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我将帮助您开始。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥 发展</font></font></h2><a id="user-content--development" class="anchor" aria-label="永久链接：🖥 发展" href="#-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">除了研究之外，GPT Pilot 还需要调试才能在不同的场景下工作。</font><font style="vertical-align: inherit;">例如，我们意识到生成的代码的质量对开发任务的大小非常敏感。</font><font style="vertical-align: inherit;">当任务太宽泛时，代码中存在太多难以修复的错误，但当开发任务太窄时，GPT 似乎也很难将任务实现到现有代码中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📊 遥测</font></font></h2><a id="user-content--telemetry" class="anchor" aria-label="永久链接：📊遥测" href="#-telemetry"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了改进 GPT Pilot，我们正在跟踪一些事件，您可以随时选择退出。</font><font style="vertical-align: inherit;">你可以</font></font><a href="/Pythagora-io/gpt-pilot/blob/main/docs/TELEMETRY.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">读更多关于它的内容。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗 与我们联系</font></font></h1><a id="user-content--connect-with-us" class="anchor" aria-label="永久链接：🔗 与我们联系" href="#-connect-with-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 作为一个开源工具，如果您为 GPT-pilot 存储库加注星标，这对我们来说将意味着整个世界 🌟</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 加入</font></font><a href="https://discord.gg/HaqXugmxr9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以取得联系。</font></font></p>
+</article></div>
